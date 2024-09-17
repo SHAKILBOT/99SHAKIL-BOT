@@ -7,7 +7,7 @@
   "notification": true,
   "approval": false,
   "BOTNAME": "𝐀𝐈 𝐂𝐇𝐀𝐓-𝐁𝐎𝐓 𝐏𝐑𝐎",
-  "PREFIX": "/",
+  "PREFIX": "!",
   "OPERATOR": [
     "61564969921153",
     ""
